@@ -8,7 +8,9 @@
 <a href="https://leetcode.com/estefanofc/">
   <img align="left" alt="Estefano's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+
 <br />
+
 
 - 🛠 I am a Software Engineer with experience in back-end development
 - 🙌🏽 I love to learn new technologies, solve problems at a massive scale, and work on high-impact projects
