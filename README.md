@@ -9,7 +9,7 @@
   <img align="left" alt="Estefano's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://imgur.com/dXecvXb">
-  <img align="right" src="https://i.imgur.com/dXecvXb.png" width="550.12px" height="426.36px" border="0" />
+  <img align="right" src="https://i.imgur.com/dXecvXb.png" width="485.4px" height="376.2px" border="0" />
 </a>
 
 <br />
