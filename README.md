@@ -10,8 +10,9 @@
 </a>
 <a href="https://imgur.com/dXecvXb">
   <img align="right" src="https://i.imgur.com/dXecvXb.png" width="550.12px" height="426.36px" border="0" />
-  <br />
 </a>
+
+<br />
 
 - 🛠 I am a Software Engineer with experience in back-end development
 - 🙌🏽 I love to learn new technologies, solve problems at a massive scale, and work on high-impact projects
