@@ -13,6 +13,7 @@
 </a>
 
 <br />
+<br />
 
 - 🛠 I am a Software Engineer with experience in back-end development
 - 🙌🏽 I love to learn new technologies, solve problems at a massive scale, and work on high-impact projects
