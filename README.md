@@ -8,12 +8,8 @@
 <a href="https://leetcode.com/estefanofc/">
   <img align="left" alt="Estefano's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
-<br />
-<br />
-
 <a href="https://imgur.com/dXecvXb">
-  <img align="right" src="https://i.imgur.com/dXecvXb.png" width="323.6px" height="250.8px" border="0" />
+  <img align="right" src="https://i.imgur.com/dXecvXb.png" width="550.12px" height="426.36px" border="0" />
   <br />
 </a>
 
