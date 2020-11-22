@@ -12,6 +12,8 @@
 <br />
 <br />
 
+<a href="https://ibb.co/mcWXNRG"><img src="https://i.ibb.co/0GbFsnc/Note-Nov-7-2020.jpg" alt="Note-Nov-7-2020" border="0" /></a>
+
 - 🛠 I am a Software Engineer with experience in back-end development
 - 🙌🏽 I love to learn new technologies, solve problems at a massive scale, and work on high-impact projects
 - 💡 My interests lie in web development, cloud computing, and distributed systems
