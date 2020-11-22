@@ -13,7 +13,8 @@
 <br />
 
 <a href="https://imgur.com/dXecvXb">
-  <img src="https://i.imgur.com/dXecvXb.png" border="0" />
+  <img align="right" src="https://i.imgur.com/dXecvXb.png" width="323.6px" height="250.8px" border="0" />
+  <br />
 </a>
 
 - 🛠 I am a Software Engineer with experience in back-end development
