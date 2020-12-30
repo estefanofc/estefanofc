@@ -22,7 +22,7 @@
 
 <br />
 
-<a href="https://imgur.com/dXecvXb">
+<a href="https://i.imgur.com/dXecvXb.png">
   <img align="center" src="https://i.imgur.com/dXecvXb.png" width="485.4px" height="376.2px" border="0" />
 </a>
 
