@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/estefanofelipa/">
   <img align="left" alt="Estefano's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.reddit.com/user/estefano_fc/">
-  <img align="left" alt="Estefano's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
 
 <br />
 <br />
