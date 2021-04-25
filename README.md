@@ -20,5 +20,5 @@
 <br />
 
 <a href="https://i.imgur.com/dXecvXb.png">
-  <img align="center" src="https://i.imgur.com/dXecvXb.png" width="485.4px" height="376.2px" border="0" />
+  <img align="center" src="https://i.imgur.com/dXecvXb.png" width="600rem" height="460rem" border="0" />
 </a>
